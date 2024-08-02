@@ -1,0 +1,547 @@
+body
+{
+height:600vh;
+}
+
+.img1-fluid
+{
+  object-fit:cover;
+  width:100%;
+  height:730px;
+  position:absolute;
+  left:0px;
+  max-width:100vw;
+}
+
+
+@media (max-width:768px)
+{
+  .img1-fluid
+{
+  object-fit:fill;
+  width:100%;
+  height:700px;
+}
+}
+
+
+.hed1
+{
+  position: relative;
+  left:20px;
+}
+
+
+.navbar-nav ul
+{
+    font-family:Universal Sans Text,-apple-system, Arial, sans-serif;
+  
+}
+
+
+.navbar-nav li a
+{
+    font-family:Universal Sans Text,-apple-system, Arial, sans-serif;
+  
+}
+
+.navbar-nav li a:hover
+{
+  background-color: #F5F5F5;
+  
+}
+
+
+.menubtn1
+{
+position:absolute;
+right:0px;
+}
+
+.nav1 ul
+{ 
+    position: absolute;
+    top:28px;
+    left:1250px;
+    list-style:none;
+}
+.h1 ,.p1,.p2{
+    position: absolute;
+
+}
+
+.p1{
+    top:180px;
+    font-weight:bold;
+    font-family: -apple-system, Arial, sans-serif;
+    size:15px;
+}
+
+
+.p2{
+    top:200px;
+    font-weight:bold;
+    font-family: -apple-system, Arial, sans-serif;
+    size:15px;
+}
+
+.btn1
+{
+    position: absolute;
+    top:600px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+
+.btn2
+{
+    position: absolute;
+    top:600px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+  /*CONT-2*/
+  .h2 ,.p1,.p2{
+    position: absolute;
+
+}
+.h2{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+}
+
+
+
+.btn3
+{
+    position: absolute;
+    top:1300px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn4
+{
+    position: absolute;
+    top:1300px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+  /*CONT-3*/
+  .h3 ,.p1,.p2{
+    position: absolute;
+
+}
+.h3{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+}
+
+
+
+.btn5
+{
+    position: absolute;
+    top:2000px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn6
+{
+    position: absolute;
+    top:2000px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+
+   /*CONT-4*/
+   .h4 ,.p1,.p2{
+    position: absolute;
+
+}
+.h4{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:white;
+}
+
+
+
+.btn7
+{
+    position: absolute;
+    top:2700px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn8
+{
+    position: absolute;
+    top:2700px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+   /*CONT-5*/
+   .h5 ,.p1,.p2{
+    position: absolute;
+
+}
+.h5{
+    font-family:Arial,Helvetica,sans serifa;sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:black;
+}
+
+
+
+.btn9
+{
+    position: absolute;
+    top:3400px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+  color:rgba(255, 255, 255, 0.8);
+}
+  
+  
+
+.btn10
+{
+    position: absolute;
+    top:3400px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+ /*CONT-6*/
+ .h6 ,.p3{
+    position: absolute;
+
+}
+.h6{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:white;
+}
+
+
+.p3
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:white;
+padding-top:50px;
+}
+.btn7
+{
+    position: absolute;
+    top:2700px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn8
+{
+    position: absolute;
+    top:2700px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+  /*CONT-7*/
+ .h7 ,.p3,.p4{
+    position: absolute;
+
+}
+.h7{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:black;
+}
+
+
+.p3
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:50px;
+}
+.p4
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:80px;
+}
+.btn11
+{
+    position: absolute;
+    top:4800px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn12
+{
+    position: absolute;
+    top:4800px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+
+
+
+  /*CONT-8*/
+ .h8 ,.p3,.p4{
+    position: absolute;
+
+}
+.h8{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:black;
+}
+
+
+.p3
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:50px;
+}
+.p4
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:80px;
+}
+.btn13
+{
+    position: absolute;
+    top:5600px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+
+.btn14
+{
+    position: absolute;
+    top:5600px;
+    font-family:Arial,Helvetica,sans serifa;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    background-color:black;
+    color:white;
+  }
+
+  /*CONT-9*/
+ .h8 ,.p3,.p4{
+    position: absolute;
+
+}
+.h8{
+    font-family:-apple-system,Arial,sans-serif;
+    font-weight:580;
+    font-size:40px;
+    color:black;
+}
+
+
+.p3
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:50px;
+}
+.p4
+{
+    font-family:Arial,Helvetica,sans serifa;
+ font-size:23px;
+ font-weight:550;
+color:black;
+padding-top:80px;
+}
+.btn15
+{
+    position: absolute;
+    top:6280px;
+    font-size:13px;
+    font-weight:580;
+    padding-right:110px;
+    padding-left:110px;
+    border-radius:5px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:15px;
+    color: #333; 
+  }
+  
+.lastf{
+    position: absolute;
+    color: white;
+    color:rgba(255, 255, 255, 0.8);
+    font-size:13px;
+    font-family:Arial,Helvetica,sans serifa; ;
+   
+}
+.copyright 
+{
+    position: absolute;
+    padding-top: 15px;
+}
+.highlight
+{
+    text-decoration:underline;
+ font-weight:bold;
+}
